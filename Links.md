@@ -1,10 +1,5 @@
 ## 🔗 Direct Download Links
 > Click on any link below to start downloading directly.<br><br/>
-
-
-### 📅 2026-05-03 01:21 IR
-- 📥 [index.html](https://github.com/niandivdel-hue/sandbox/raw/main/dl/index.html) `360KB`
-
 ---
 
 
